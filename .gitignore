@@ -1,0 +1,12 @@
+# Ignore temporary scripts created during analysis
+extract_code.py
+get_blackspots.py
+parse2.py
+parse_ipynb.py
+satellite.js
+test_script.py
+
+# Ignore common Python artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

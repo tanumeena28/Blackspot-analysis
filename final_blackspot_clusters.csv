@@ -1,0 +1,15 @@
+Black_Spot_Rank,Location_Label,Count,Fatal,Grievous,Minor,Severity_Sum,Risk_Score
+1,Rural Area (Cluster-1),586,56,266,633,3156,286.90909090909093
+2,Rural Area (Cluster-0),690,76,290,434,3078,279.8181818181818
+3,Bardoli (Cluster-8),316,42,167,294,1843,167.54545454545453
+4,Magdalla (Cluster-4),275,53,61,78,991,90.0909090909091
+5,Mirkot (Cluster-7),129,30,56,80,740,67.27272727272727
+6,Bajipura (Cluster-6),128,21,45,105,645,58.63636363636363
+7,Ena (Cluster-2),65,10,15,55,285,25.90909090909091
+8,Hazira (Cluster-9),36,6,14,12,154,14.0
+9,Rural Area (Cluster-5),30,5,6,23,126,11.454545454545455
+10,Bajipura (Cluster-11),7,2,8,2,64,5.818181818181818
+11,Bajipura (Cluster-13),4,1,2,4,28,2.5454545454545454
+12,Hazira (Cluster-10),7,1,1,6,27,2.4545454545454546
+13,Hazira (Cluster-3),18,1,0,3,16,1.4545454545454546
+14,Hazira (Cluster-12),4,0,1,1,7,0.6363636363636364
